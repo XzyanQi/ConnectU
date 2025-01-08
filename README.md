@@ -36,6 +36,6 @@ all product pilih:
 2. Cloud Firestore dan rules yang false ubah menjadi true
    
 buka comand promt, cd (nama file)
-npm i -g firebase-tools
-firebase init (pilih firestore)
-ng add @angular/fire (pilih authen dan fire)  //di angular 19 menyebabkan conflict, jadi gunakan versi di bawah 19
+1. npm i -g firebase-tools
+2. firebase init (pilih firestore)
+3. ng add @angular/fire (pilih authen dan fire)  //di angular 19 menyebabkan conflict, jadi gunakan versi di bawah 19
